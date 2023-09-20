@@ -1,1 +1,1 @@
-# -Std-JavascriptCursoEmVideo---HTML-CSS-e-JS
+# Básico da progrmação Web, com HTML, CSS e JS
