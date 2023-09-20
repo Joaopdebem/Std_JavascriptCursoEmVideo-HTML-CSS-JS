@@ -1,1 +1,1 @@
-# Básico da progrmação Web, com HTML, CSS e JS
+# Básico da programação Web, com HTML, CSS e JS pelo Curso em Vídeo.
